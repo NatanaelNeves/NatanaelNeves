@@ -3,11 +3,11 @@
 <p align="left">
  Full Stack Developer com habilidades em <strong> HTML, CSS, JavaScript e React </strong>
   
-  Atualmente, estou mergulhando fundo no mundo da programação Full Stack. Concluí um curso completo de desenvolvimento Full Stack, onde aprendi a criar aplicações web modernas e interativas. Além disso, estou cursando Análise e Desenvolvimento de Sistemas para aprofundar meus conhecimentos e habilidades na área de tecnologia.
+ 💡 Sobre mim: Sou um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Concluí um curso completo de desenvolvimento Full Stack, onde aprendi a criar aplicações web modernas e interativas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas para aprofundar meus conhecimentos e habilidades na área de tecnologia.
 
-No momento, estou buscando oportunidades na área de desenvolvimento e dedicando-me aos estudos e a projetos pessoais para aperfeiçoar minhas habilidades. Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor e contribuir com projetos inovadores.
+🚀 O que estou fazendo agora: No momento, estou buscando oportunidades na área de desenvolvimento e dedicando-me aos estudos e a projetos pessoais para aperfeiçoar minhas habilidades. Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor e contribuir com projetos inovadores.
 
-Sinta-se à vontade para explorar meus repositórios e ver o que tenho criado! 
+🌱 Interesses: Além de programação, tenho interesse em redes de computadores, inteligencia artificial e cyber security.
 </p>
 <p align="left">
   🦄 Linguagens: HTML, CSS, JavaScript, Node.js e React.
