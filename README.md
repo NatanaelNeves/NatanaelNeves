@@ -54,9 +54,9 @@
   </a>
 </p>
 
----
+<br/>
 
-### ⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <table>
   <tr>
@@ -73,9 +73,9 @@
   </tr>
 </table>
 
----
+<br/>
 
-### 🏆 GitHub Profile Trophy
+## 🏆 GitHub Profile Trophy
 
 <p align="center">
   <a href="https://github.com/NatanaelNeves/github-profile-trophy" title="repositório de troféus">
@@ -83,10 +83,12 @@
   </a>
 </p>
 
----
+<br/>
 
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+
+## 📍 Profile Visitor Count
+
 </div>
 
 <p align="center">
