@@ -1,4 +1,5 @@
 ## Olá, meu nome é Natan! 👋
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
@@ -20,11 +21,30 @@
 ---
 
 <p align="left">
-  🦄 <strong>Linguagens:</strong> HTML, CSS, JavaScript, TypeScript, Node.js e React.
+  🦄 <strong>Linguagens:</strong>
 </p>
 
 <p align="left">
-  💼 <strong>Ferramentas:</strong> Visual Studio Code, Git, GitHub, npm, Postman, MongoDB Atlas, Docker.
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+<p align="left">
+  💼 <strong>Ferramentas:</strong>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 <p align="left">
@@ -40,7 +60,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:natanaelnevesalves@gmail.com" title='Email' target="_blank">
+  <a href="mailto:natanaelnevesalves@gmail.com" title="Email" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/natanael-neves/" title="LinkedIn" target="_blank">
@@ -54,43 +74,17 @@
   </a>
 </p>
 
-<br/>
+---
 
 ## ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=NatanaelNeves&theme=dark&hide_border=false&include_all_commits=true" alt="Github Stats"/>
-    </td>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelNeves&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
-    </td>
-    <td>
-      <br/>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanaelNeves&theme=dark&hide_border=false" alt="Github Stats"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 🏆 GitHub Profile Trophy
-
 <p align="center">
-  <a href="https://github.com/NatanaelNeves/github-profile-trophy" title="repositório de troféus">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=NatanaelNeves&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=NatanaelNeves&theme=dark&hide_border=false" alt="Streak Stats"/>
 </p>
 
-<br/>
-
-<div align="center">
-
-## 📍 Profile Visitor Count
-
-</div>
+---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/NatanaelNeves/count.svg" alt="Número de visitantes no perfil"/>
+  <strong>📍 Profile Visitor Count</strong><br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=NatanaelNeves&color=blueviolet&style=flat-square&label=Visitantes" alt="Visitantes"/>
 </p>
